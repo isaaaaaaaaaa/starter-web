@@ -15,12 +15,15 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Simple but very cool content
+			Simple but very very cool content
 		</p>
 	</main>
-	<div>New div</div>
 	<footer class="container">
+<<<<<<< HEAD
 		<p>&copy; MY COMPANY! 2014</p>
+=======
+		<p>&copy; Company 2023</p>
+>>>>>>> 51c6a85 (Change copyright year)
 	</footer>
 </body>
 </html>
